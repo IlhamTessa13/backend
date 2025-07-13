@@ -3,7 +3,7 @@ return [
 'paths' => ['api/*'],
 'allowed_methods' => ['*'],
 
-'allowed_origins' => ['http://localhost:5173', 'https://frontend-cjozncama-ilhamts139-9696s-projects.vercel.app'],
+'allowed_origins' => ['http://localhost:5173', 'https://frontend-one-brown-25.vercel.app/'],
 
 'allowed_origins_patterns' => [],
 'allowed_headers' => ['*'],
